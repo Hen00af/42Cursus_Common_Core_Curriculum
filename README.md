@@ -13,9 +13,11 @@ Its gamified methodology allows students to progress through levels and acquire 
 
 ---
 
-## Piscine Projects
+## Piscine
 👉 [Learn More about the 42 C Piscine](https://42tokyo.jp/requirements/)
 
+The **Piscine** is a 4-week intensive bootcamp in C programming, shell scripting, and teamwork.  
+It’s the entry selection for 42, with a **very low acceptance rate**, making it highly competitive.
 ---
 
 ## Common Core Projects
