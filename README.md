@@ -14,7 +14,7 @@ Its gamified methodology allows students to progress through levels and acquire 
 ---
 
 ## Piscine Projects
-👉 Learn More about the 42 C Piscine
+👉 [Learn More about the 42 C Piscine](https://42tokyo.jp/requirements/)
 
 ---
 
