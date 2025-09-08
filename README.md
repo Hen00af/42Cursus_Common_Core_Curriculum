@@ -90,14 +90,6 @@ ft_transcendence - Full-stack web app (NestJS, PostgreSQL, Docker, etc.).
 
 Exam Rank 06
 
-Extra Curricular Projects
-
-Python & Machine Learning - Explorations beyond the core curriculum.
-
-Badges & Progress
-
 [![GitHub](https://img.shields.io/badge/GitHub-Hen00af-181717?style=for-the-badge&logo=github)](https://github.com/Hen00af)
 
-How to Use
 
-Clone this repo and explore each project’s folder to see my solutions, notes, and learning process.
