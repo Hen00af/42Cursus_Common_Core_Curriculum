@@ -96,7 +96,7 @@ Python & Machine Learning - Explorations beyond the core curriculum.
 
 Badges & Progress
 
-👉 (ここに 42 Intra のバッジ画像を埋め込むと見栄えが良くなります)
+[![GitHub](https://img.shields.io/badge/GitHub-Hen00af-181717?style=for-the-badge&logo=github)](https://github.com/Hen00af)
 
 How to Use
 
