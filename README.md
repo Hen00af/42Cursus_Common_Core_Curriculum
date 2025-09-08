@@ -9,7 +9,7 @@ The 42 school is more than a programming campus.
 At 42, you learn how to learn. No teachers, only self-learning and peer-to-peer collaboration.  
 Its gamified methodology allows students to progress through levels and acquire the technical and transversal skills companies demand.
 
-👉 Learn More Here
+👉 [Learn More Here](https://42.fr/en/homepage/)
 
 ---
 
