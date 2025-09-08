@@ -16,33 +16,33 @@ Piscine Projects
 Common Core Projects
 RANK 00
 
-Libft - Create your own C library with basic libc functions.
+[Libft](https://github.com/Hen00af/libft) - Create your own C library with basic libc functions.
 
 RANK 01
 
-ft_printf - Recreate printf with support for multiple data types.
+[ft_printf](https://github.com/Hen00af/ft_printf) - Recreate printf with support for multiple data types.
 
-get_next_line - Function that reads a line from a file descriptor.
+[get_next_line](https://github.com/Hen00af/get_next_line) - Function that reads a line from a file descriptor.
 
-Born2beroot - Setup a Debian server with virtualization.
+Born2beroot(no URL) - Setup a Debian server with virtualization.
 
 RANK 02
 
-Pipex - Introduction to UNIX piping and redirections.
+[Pipex](https://github.com/Hen00af/pipex) - Introduction to UNIX piping and redirections.
 
-so_long - A simple 2D game using MiniLibX.
+[so_long](https://github.com/Hen00af/so-long) - A simple 2D game using MiniLibX.
 
-Push_swap - Sorting algorithm with two stacks in minimal operations.
+[Push_swap](https://github.com/Hen00af/push_swap) - Sorting algorithm with two stacks in minimal operations.
 
-Exam Rank 02
+Exam Rank 02(no URL)
 
 RANK 03
 
-Philosophers - Dining philosophers, threads, and mutexes.
+[Philosophers](https://github.com/Hen00af/philosopher) - Dining philosophers, threads, and mutexes.
 
-Minishell - A small shell implementation with pipes, redirections, and builtins.
+[Minishell](https://github.com/Hen00af/minishell) - A small shell implementation with pipes, redirections, and builtins.
 
-Exam Rank 03
+Exam Rank 03(no URL)
 
 RANK 04
 
