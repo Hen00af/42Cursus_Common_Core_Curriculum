@@ -32,7 +32,7 @@ Its gamified methodology allows students to progress through levels and acquire 
 - ☑ [Pipex](https://github.com/Hen00af/pipex) - Introduction to UNIX piping and redirections.
 - ☑ [so_long](https://github.com/Hen00af/so-long) - A simple 2D game using MiniLibX.
 - ☑ [Push_swap](https://github.com/Hen00af/push_swap) - Sorting algorithm with two stacks in minimal operations.
-- ☑ Exam Rank 02 (no URL)
+- ☑ [Exam Rank 02](https://github.com/Hen00af/Exam_Rank_02)
 
 ### RANK 03
 - ☑ [Philosophers](https://github.com/Hen00af/philosopher) - Dining philosophers, threads, and mutexes.
