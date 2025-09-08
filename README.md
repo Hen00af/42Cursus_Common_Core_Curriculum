@@ -1,6 +1,6 @@
 # 42 Cursus | Common Core Complete
 
-#### [Campus: 42Tokyo](https://42tokyo.jp/)
+#### Campus: [42Tokyo](https://42tokyo.jp/)
 
 # What is 42?
 
