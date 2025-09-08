@@ -67,7 +67,7 @@ Its gamified methodology allows students to progress through levels and acquire 
 
 
 ---
-
+[holy grapgh](https://github.com/Hen00af/42Cursus_Common_Core_Curriculum/blob/main/src/holy_glaph.png)
 
 ## How to Use
 Clone this repo and explore each project’s folder to see my solutions, notes, and learning process.
