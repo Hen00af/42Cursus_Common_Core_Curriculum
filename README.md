@@ -44,13 +44,13 @@ It’s the entry selection for 42, with a **very low acceptance rate**, making i
 
 ### RANK 04
 - ⬜ C++ Modules Part I  
-  - ⬜ Module 00 → Basics (namespaces, classes, etc.)  
-  - ⬜ Module 01 → Memory allocation, references, switch  
-  - ⬜ Module 02 → Operator overloading, Orthodox Canonical Form  
-  - ⬜ Module 03 → Inheritance  
-  - ⬜ Module 04 → Abstract classes and polymorphism  
+  - ☑ Module 00 → Basics (namespaces, classes, etc.)  
+  - ☑ Module 01 → Memory allocation, references, switch  
+  - ☑ Module 02 → Operator overloading, Orthodox Canonical Form  
+  - ☑ Module 03 → Inheritance  
+  - ☑ Module 04 → Abstract classes and polymorphism  
 - ⬜ NetPractice - Networking & subnetting exercises.  
-- ⬜ MiniRT - Basic Raytracer to render 3D scenes.  
+- ☑ Cub3D - Basic ray-casting to create 3D game.  
 - ⬜ Exam Rank 04  
 
 ### RANK 05
