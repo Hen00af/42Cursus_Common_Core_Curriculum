@@ -43,7 +43,7 @@ It’s the entry selection for 42, with a **very low acceptance rate**, making i
 - ☑ Exam Rank 03 (no URL)
 
 ### RANK 04
-- ⬜ C++ Modules Part I  
+- ☑ C++ Modules Part I  
   - ☑ Module 00 → Basics (namespaces, classes, etc.)  
   - ☑ Module 01 → Memory allocation, references, switch  
   - ☑ Module 02 → Operator overloading, Orthodox Canonical Form  
