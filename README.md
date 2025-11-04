@@ -49,9 +49,9 @@ It’s the entry selection for 42, with a **very low acceptance rate**, making i
   - ☑ Module 02 → Operator overloading, Orthodox Canonical Form  
   - ☑ Module 03 → Inheritance  
   - ☑ Module 04 → Abstract classes and polymorphism  
-- ⬜ NetPractice - Networking & subnetting exercises.  
+- ☑ NetPractice - Networking & subnetting exercises.  
 - ☑ [Cub3D](https://github.com/Hen00af/Cub3D) - Basic ray-casting to create 3D game.  
-- ⬜ Exam Rank 04  
+- ☑ Exam Rank 04  
 
 ### RANK 05
 - ⬜ C++ Modules Part II  
