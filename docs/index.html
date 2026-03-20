@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>42 Cursus | Common Core Complete</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --green: #3fb950;
+      --gray: #484f58;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    h2 {
+      font-size: 1.4rem;
+      margin: 2rem 0 0.75rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.4rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      margin: 1.5rem 0 0.5rem;
+      color: var(--accent);
+    }
+
+    p {
+      margin-bottom: 0.75rem;
+      color: var(--text);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .meta {
+      color: var(--muted);
+      margin-bottom: 0.25rem;
+      font-size: 0.95rem;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 1.5rem 0;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0.5rem;
+    }
+
+    ul li {
+      padding: 0.25rem 0;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+
+    .check {
+      color: var(--green);
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    .uncheck {
+      color: var(--gray);
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    .sub-list {
+      padding-left: 1.5rem;
+      margin-top: 0.25rem;
+    }
+
+    .rank-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1rem;
+    }
+
+    .graph-section {
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    .graph-section img {
+      max-width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <h1>42 Cursus | Common Core Complete</h1>
+    <p class="meta">Campus: <a href="https://42tokyo.jp/" target="_blank">42Tokyo</a></p>
+    <p class="meta">GitHub: <a href="https://github.com/Hen00af" target="_blank">Hen00af</a></p>
+
+    <h2>What is 42?</h2>
+    <p>
+      The 42 school is more than a programming campus.<br />
+      At 42, you learn how to learn. No teachers, only self-learning and peer-to-peer collaboration.<br />
+      Its gamified methodology allows students to progress through levels and acquire the technical and transversal skills companies demand.
+    </p>
+    <p>👉 <a href="https://42.fr/en/homepage/" target="_blank">Learn More Here</a></p>
+
+    <hr />
+
+    <h2>Piscine</h2>
+    <p>👉 <a href="https://42tokyo.jp/requirements/" target="_blank">Learn More about the 42 C Piscine</a></p>
+    <p>
+      The Piscine is a 4-week intensive bootcamp in C programming, shell scripting, and teamwork.<br />
+      It's the entry selection for 42, with a <strong>very low acceptance rate</strong>, making it highly competitive.
+    </p>
+
+    <hr />
+
+    <h2>Common Core Projects</h2>
+
+    <div class="rank-card">
+      <h3>RANK 00</h3>
+      <ul>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/libft" target="_blank">Libft</a> — Create your own C library with basic libc functions.</li>
+      </ul>
+    </div>
+
+    <div class="rank-card">
+      <h3>RANK 01</h3>
+      <ul>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/ft_printf" target="_blank">ft_printf</a> — Recreate printf with support for multiple data types.</li>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/get_next_line" target="_blank">get_next_line</a> — Function that reads a line from a file descriptor.</li>
+        <li><span class="check">☑</span> Born2beroot — Setup a Debian server with virtualization.</li>
+      </ul>
+    </div>
+
+    <div class="rank-card">
+      <h3>RANK 02</h3>
+      <ul>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/pipex" target="_blank">Pipex</a> — Introduction to UNIX piping and redirections.</li>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/so-long" target="_blank">so_long</a> — A simple 2D game using MiniLibX.</li>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/push_swap" target="_blank">Push_swap</a> — Sorting algorithm with two stacks in minimal operations.</li>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/Exam_Rank_02" target="_blank">Exam Rank 02</a></li>
+      </ul>
+    </div>
+
+    <div class="rank-card">
+      <h3>RANK 03</h3>
+      <ul>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/philosopher" target="_blank">Philosophers</a> — Dining philosophers, threads, and mutexes.</li>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/minishell" target="_blank">Minishell</a> — A small shell implementation with pipes, redirections, and builtins.</li>
+        <li><span class="check">☑</span> Exam Rank 03</li>
+      </ul>
+    </div>
+
+    <div class="rank-card">
+      <h3>RANK 04</h3>
+      <ul>
+        <li>
+          <span class="check">☑</span>
+          <div>
+            C++ Modules Part I
+            <ul class="sub-list">
+              <li><span class="check">☑</span> Module 00 → Basics (namespaces, classes, etc.)</li>
+              <li><span class="check">☑</span> Module 01 → Memory allocation, references, switch</li>
+              <li><span class="check">☑</span> Module 02 → Operator overloading, Orthodox Canonical Form</li>
+              <li><span class="check">☑</span> Module 03 → Inheritance</li>
+              <li><span class="check">☑</span> Module 04 → Abstract classes and polymorphism</li>
+            </ul>
+          </div>
+        </li>
+        <li><span class="check">☑</span> NetPractice — Networking &amp; subnetting exercises.</li>
+        <li><span class="check">☑</span> <a href="https://github.com/Hen00af/Cub3D" target="_blank">Cub3D</a> — Basic ray-casting to create a 3D game.</li>
+        <li><span class="check">☑</span> Exam Rank 04</li>
+      </ul>
+    </div>
+
+    <div class="rank-card">
+      <h3>RANK 05</h3>
+      <ul>
+        <li>
+          <span class="uncheck">⬜</span>
+          <div>
+            C++ Modules Part II
+            <ul class="sub-list">
+              <li><span class="uncheck">⬜</span> Module 05 → Exceptions</li>
+              <li><span class="uncheck">⬜</span> Module 06 → Casts</li>
+              <li><span class="uncheck">⬜</span> Module 07 → Templates</li>
+              <li><span class="uncheck">⬜</span> Module 08 → Containers, iterators, algorithms</li>
+              <li><span class="uncheck">⬜</span> Module 09 → STL</li>
+            </ul>
+          </div>
+        </li>
+        <li><span class="uncheck">⬜</span> Inception — Docker &amp; VM system administration.</li>
+        <li><span class="uncheck">⬜</span> Webserv — HTTP server in C++ from scratch.</li>
+        <li><span class="uncheck">⬜</span> Exam Rank 05</li>
+      </ul>
+    </div>
+
+    <div class="rank-card">
+      <h3>RANK 06</h3>
+      <ul>
+        <li><span class="uncheck">⬜</span> ft_transcendence — Full-stack web app (NestJS, PostgreSQL, Docker, etc.).</li>
+        <li><span class="uncheck">⬜</span> Exam Rank 06</li>
+      </ul>
+    </div>
+
+    <hr />
+
+    <div class="graph-section">
+      <h2>My Holy Graph</h2>
+      <img src="../src/holy_glaph.png" alt="Holy Graph" />
+    </div>
+
+  </div>
+</body>
+</html>
